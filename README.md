@@ -11,69 +11,63 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 2nd Year CSE Student  
-- 💻 Target: **Java Full Stack Developer**
+- 🎓 3rd Year CSE Student  
+- 💻 Target: Java Full Stack Developer  
 - 🔥 Preparing for Product Based Companies  
 - 🧠 Exploring AI + RAG + LLM Integration  
-- 🏗️ Building: **CampusGuru** (AI-powered college platform)  
-- ✨ Creator of: GitHub Profile Viewer & YatraAI  
+- 🏗️ Building: CampusGuru (AI-powered college platform)  
+- ✨ Creator of: AI Driven Saas Platform & Skill-Sensei   
 
 ---
 
 # 💻 Tech Stack
 
 ## ⚙️ Backend
-- Java
-- Spring Boot
-- Spring JPA
-- Hibernate
-- MySQL
-- MongoDB
+Java • Spring Boot • Spring JPA • Hibernate • MySQL • MongoDB  
 
 ## 🎨 Frontend
-- React.js
-- HTML
-- CSS
-- JavaScript
-- Tailwind CSS
-- Bootstrap
+React • HTML • CSS • JavaScript • Tailwind • Bootstrap  
 
 ## 🤖 AI & Tools
-- LangChain
-- Ollama
-- RAG Pipelines
-- Firebase
-- Git & GitHub
-- Postman
+LangChain • Ollama • RAG • Docker • Git • GitHub • Postman  
 
 ---
 
-# 📊 GitHub Stats
+<!-- ================= CONTRIBUTION ACTIVITY ================= -->
+
+### 🔥 CONTRIBUTION ACTIVITY
+
+<br/>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Chitranshu2411&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chitranshu2411&theme=tokyonight&hide_border=true" width="48%"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chitranshu2411&bg_color=000000&color=00f2ff&line=22c55e&point=ffffff&area=true&hide_border=true" width="85%" />
 </div>
 
----
+<br/>
 
-# 📌 Featured Projects
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Chitranshu2411&theme=transparent&background=0d1117&ring=22c55e&fire=0ea5e9&currStreakLabel=C9D1D9&sideNums=22c55e&dates=8B949E&stroke=30363D&hide_border=true" width="80%" />
+</div>
 
-### 🏫 CampusGuru
-> AI-powered college query & career guidance platform  
-Tech: Spring Boot + MongoDB + RAG + HTML/CSS/JS
+<br/>
 
-### ✈️ YatraAI
-> AI Travel Planner Website  
-Tech: HTML + Bootstrap + JavaScript + Firebase
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chitranshu2411&show_icons=true&theme=transparent&bg_color=0d1117&title_color=22c55e&text_color=ffffff&icon_color=0ea5e9&hide_border=true" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chitranshu2411&layout=compact&theme=transparent&bg_color=0d1117&title_color=22c55e&text_color=ffffff&hide_border=true" width="48%" />
+</div>
 
-### 🔍 GitHub Profile Viewer
-> API-based project to fetch GitHub profiles dynamically  
+<br/>
+
+<!-- ================= SNAKE ================= -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<br/>
 
 ---
 
@@ -95,7 +89,7 @@ Tech: HTML + Bootstrap + JavaScript + Firebase
 
 </div>
 
----
+<br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&text=Let's%20Build%20Something%20Impactful%20🚀&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
