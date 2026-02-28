@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=900&size=28&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MongoDB;Building+CampusGuru+%F0%9F%9A%80;AI+%26+RAG+Systems+Explorer;100+Days+Of+Code+%F0%9F%92%BB" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=900&size=28&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Building+AI Driven Saas Platform +%F0%9F%9A%80;AI+%26+RAG+Systems+Explorer;100+Days+Of+Code+%F0%9F%92%BB" />
 
 </div>
 
@@ -17,21 +17,21 @@
 - 💻 Target: Java Full Stack Developer  
 - 🔥 Preparing for Product Based Companies  
 - 🧠 Exploring AI + RAG + LLM Integration  
-- 🏗️ Building: CampusGuru (AI-powered college platform)  
-- ✨ Creator of: AI Driven Saas Platform & Skill-Sensei   
+- 🏗️ Building: CodeNova (AI-Driven Code Generation Saas platform)  
+- ✨ Creator of: Dr. Jivika & Skill-Sensei Project
 
 ---
 
 # 💻 Tech Stack
 
 ## ⚙️ Backend
-Java • Spring Boot • Spring JPA • Hibernate • MySQL • MongoDB  
+Java • Spring Boot • Spring JPA • Hibernate • Spring Security • MySQL
 
 ## 🎨 Frontend
 React • HTML • CSS • JavaScript • Tailwind • Bootstrap  
 
 ## 🤖 AI & Tools
-LangChain • Ollama • RAG • Docker • Git • GitHub • Postman  
+LangChain • Ollama • RAG • Docker • Git • GitHub • Postman • Swagger 
 
 ---
 
@@ -75,15 +75,15 @@ LangChain • Ollama • RAG • Docker • Git • GitHub • Postman
 
 <div align="center">
 
-<a href="mailto:your-email@gmail.com">
+<a href="chitranshu2411@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/chitranshu-yadav">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="https://www.instagram.com/YOUR-INSTAGRAM">
+<a href="https://www.instagram.com/chitranshu_yadav_07/">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 
