@@ -92,5 +92,5 @@ LangChain • Ollama • RAG • Docker • Git • GitHub • Postman • Swagg
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&text=Let's%20Build%20Something%20Impactful%20🚀&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&text=Let's%20Build%20Something%20Impactful%20🚀&fontSize=20&fontColor=000000&animation=twinkling&fontAlignY=65" width="100%"/>
 </div>
