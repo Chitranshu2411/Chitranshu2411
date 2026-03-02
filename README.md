@@ -58,10 +58,6 @@ LangChain • Ollama • RAG • Docker • Git • GitHub • Postman • Swagg
 
 <br/>
 
-
-
-<br/>
-
 <!-- ================= SNAKE ================= -->
 
 <div align="center">
