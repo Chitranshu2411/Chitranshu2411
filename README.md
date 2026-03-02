@@ -47,9 +47,6 @@ LangChain • Ollama • RAG • Docker • Git • GitHub • Postman • Swagg
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Chitranshu2411&theme=transparent&background=0d1117&ring=22c55e&fire=0ea5e9&currStreakLabel=C9D1D9&sideNums=22c55e&dates=8B949E&stroke=30363D&hide_border=true" width="80%" />
-</div>
 
 <br/>
 
