@@ -56,7 +56,12 @@ LangChain • Ollama • RAG • Docker • Git • GitHub • Postman • Swagg
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chitranshu2411&show_icons=true&theme=transparent&bg_color=0d1117&title_color=22c55e&text_color=ffffff&icon_color=0ea5e9&hide_border=true" width="48%" />
   
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Chitranshu2411&show_icons=true&theme=transparent&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=ffffff&hide_border=true" width="48%" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chitranshu2411&layout=compact&theme=transparent&bg_color=0d1117&title_color=22c55e&text_color=ffffff&hide_border=true" width="48%" />
+
 </div>
 
 <br/>
@@ -64,9 +69,8 @@ LangChain • Ollama • RAG • Docker • Git • GitHub • Postman • Swagg
 <!-- ================= SNAKE ================= -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Chitranshu2411/Chitranshu2411/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
-
 <br/>
 
 ---
