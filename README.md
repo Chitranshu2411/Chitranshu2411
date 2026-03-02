@@ -53,16 +53,7 @@ LangChain • Ollama • RAG • Docker • Git • GitHub • Postman • Swagg
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chitranshu2411&show_icons=true&theme=transparent&bg_color=0d1117&title_color=22c55e&text_color=ffffff&icon_color=0ea5e9&hide_border=true" width="48%" />
-  
-<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Chitranshu2411&show_icons=true&theme=transparent&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=ffffff&hide_border=true" width="48%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chitranshu2411&layout=compact&theme=transparent&bg_color=0d1117&title_color=22c55e&text_color=ffffff&hide_border=true" width="48%" />
-
-</div>
 
 <br/>
 
