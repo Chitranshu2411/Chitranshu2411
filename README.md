@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=900&size=28&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Building+AI Driven Saas Platform +%F0%9F%9A%80;AI+%26+RAG+Systems+Explorer;100+Days+Of+Code+%F0%9F%92%BB" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space%20Grotesk&weight=900&size=28&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=900&lines=Java%20Full%20Stack%20Developer;Spring%20Boot%20%7C%20React%20%7C%20MySQL;Building%20AI%20Driven%20SaaS%20Platform%20🚀;AI%20%26%20RAG%20Systems%20Explorer;100%20Days%20Of%20Code%20💻" />
 
 </div>
 
