@@ -42,10 +42,7 @@ LangChain • Ollama • RAG • Docker • Git • GitHub • Postman • Swagg
 ### 🔥 CONTRIBUTION ACTIVITY
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chitranshu2411&theme=github-compact&hide_border=true" width="85%"/>
-</div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chitranshu2411&bg_color=000000&color=00f2ff&line=22c55e&point=ffffff&area=true&hide_border=true" width="85%" /> </div>
 
 <br/>
 <br/>
