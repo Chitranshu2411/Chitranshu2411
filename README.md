@@ -78,10 +78,10 @@
 
 <br/>
 
-## 🕹️ Pacman Contribution Game
+## 🎮 Contribution Tetris
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chitranshu2411&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
