@@ -64,21 +64,23 @@
 
 <!-- ================= CONTRIBUTION ACTIVITY ================= -->
 
-### 🔥 CONTRIBUTION ACTIVITY
-
-<br/>
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chitranshu2411&bg_color=000000&color=00f2ff&line=22c55e&point=ffffff&area=true&hide_border=true" width="85%" /> </div>
-
-<br/>
-<br/>
-<br/>
-<h2 align="center">⚡ Activity ⚡</h2>
+## 🔥 Contribution Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Chitranshu2411&theme=dark&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=22c55e&dates=ffffff&hide_border=true" width="80%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chitranshu2411&bg_color=000000&color=00f2ff&line=22c55e&point=ffffff&area=true&hide_border=true" width="85%" />
+
 </div>
 
 <br/>
+
+## ⚡ Activity ⚡
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Chitranshu2411&theme=dark&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=22c55e&dates=ffffff&hide_border=true" width="80%" />
+
+</div>
 
 ## 🕹️ Pacman Contribution Game
 
