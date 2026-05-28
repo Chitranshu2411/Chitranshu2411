@@ -16,8 +16,7 @@
 # 🚀 About Me
 
 - 🎓 3rd Year CSE Student  
-- 💻 Target: Java Full Stack Developer  
-- 🔥 Preparing for Product Based Companies  
+- 💻 Target: Java Full Stack Developer   
 - 🧠 Exploring AI + RAG + LLM Integration  
 - 🏗️ Building: CodeNova (AI-Driven Code Generation Saas platform)  
 - ✨ Creator of: Dr. Jivika & Skill-Sensei Project
